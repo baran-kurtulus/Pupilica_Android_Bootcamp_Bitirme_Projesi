@@ -17,3 +17,5 @@
 ### Tasarım
 - Ana menüdeki toolbar içerisinde title yerine ImageView kullanılarak logo tasarlanıp koyuldu.
 - Yazı Fontu olarak Raleway light, semibold ve bold kullanıldı.
+
+[!Resim Yüklenemedi](resimler/anamenu.png)
